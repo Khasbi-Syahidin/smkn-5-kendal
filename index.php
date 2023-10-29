@@ -1,8 +1,8 @@
-<!-- <?php
+<?php
 
 include 'koneksi.php';
 
-?> -->
+?>
 <!doctype html>
 <html lang="en">
   <head>
